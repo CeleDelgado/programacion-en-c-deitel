@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644205585 source:e:\cele\unlam\2do-anio\programacion\curso-de-c-deitel\2-23-higher-less\main.c
+	<stdio.h>
+	<stdlib.h>
+
